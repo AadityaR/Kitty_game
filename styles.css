@@ -1,0 +1,21 @@
+canvas {
+    margin-left:auto;
+    margin-right: auto;
+    width: 600px;
+}
+
+.welcome{
+    text-align: center;
+}
+
+#message
+{
+    text-align: center;
+    border-style: inset;
+    width: 500px;
+    padding: 10px;
+    margin-left: auto;
+
+    margin-right: auto;
+    
+}
